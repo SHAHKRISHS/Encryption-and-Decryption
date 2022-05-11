@@ -18,4 +18,42 @@ Screenshot
 ---------------------
 
 **Requirements**
-[!]
+
+![This is a requirement](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/Requirements.png)
+
+**Creating a new File and saving decrpted data**
+![This is a File1](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/Saving to the text file in decryption.png)
+
+**Output of the above file**
+![This is a output](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/File1%20text%20file%20(1).png)
+
+**Appending the output to the File that already exists**
+![This is a File1 Append](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/File%201%20Apppend.png)
+
+**Output of the appended result to the file**
+![This is a File1 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/File%201%20text%20File%20Append.png)
+
+**Overwrite the output to the File that already exists**
+![This is a File2](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/FIle%201%20Overwrite.png)
+
+**Output of the overwrite File**
+![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/Dencrypted%20Overwrite.png)
+
+**Creating a new file and saving encrypted data**
+![This is a File2 Append](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/FIle%202%20Encryption.png)
+
+**Output of the above in a file**
+![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/FIle2%20text%20file%20(2).png)
+
+
+**Appending the result to the output file**
+![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/File%202%20Append.png)
+
+**Output of the file**
+![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/File%202%20text%20file%20Append.png)
+
+**Overwrite the result to the above output file**
+![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/File%202%20Overwrite.png)
+
+**Output of the file**
+![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/Encrypted%20Overwrite.png)
