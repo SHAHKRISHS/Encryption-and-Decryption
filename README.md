@@ -3,6 +3,15 @@
 
 Installation
 ---------------------
+
+```bash
+$ git clone https://github.com/SHAHKRISHS/Encryption-and-Decryption.git
+```
+
+```bash
+$ cd Encryption-and-Decryption
+```
+
 ```bash
 $ pip3 install -r requirements.txt
 ```
