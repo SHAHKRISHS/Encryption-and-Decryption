@@ -1,0 +1,1 @@
+[('The original Text is', 'Hello this is an example to overwrite!!'), ('The Encrypted Text is:', 'gAAAAABiex_nAXgfxfYV3pd8P8Ps-NUdaHKVTW1BCFnG50IpsLKg-tcEI-K2rcg5OlKS90WbVx92iFgEUzeefDFbtUfM2tborolUMY3jCtOi5AyMgQi1fUmucLOVpaLYHVYEIOudlK-g')]

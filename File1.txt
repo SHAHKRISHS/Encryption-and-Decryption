@@ -1,0 +1,1 @@
+[('The original Text is', 'Hello, this is an example 3.'), ('The Encrypted Text is:', 'gAAAAABiex6juilMmc7CYfd3czPPsVRxdSBeCtqdm-Pwif81Hlc6Z7_RY_K56LJhrLtq_QuKXSFTT3297fOENPwqVuyU2p6oAqI-yxYkLa_OJJvTsTc9aWE='), ('The Decrypted Text is:', 'Hello, this is an example 3.')]
