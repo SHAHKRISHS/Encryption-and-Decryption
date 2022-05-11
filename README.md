@@ -16,3 +16,6 @@ $ python3 main.py
 ```
 Screenshot
 ---------------------
+
+**Requirements**
+[!]
