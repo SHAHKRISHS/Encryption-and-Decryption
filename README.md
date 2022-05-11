@@ -68,3 +68,11 @@ Screenshot
 **Output of the file**
 
 ![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/Encrypted%20Overwrite.png)
+
+Author
+---------------------
+
+##Krish Shah
+
+License
+---------------------
