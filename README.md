@@ -72,7 +72,7 @@ Screenshot
 Author
 ---------------------
 
-##Krish Shah
+## Krish Shah
 
 License
 ---------------------
