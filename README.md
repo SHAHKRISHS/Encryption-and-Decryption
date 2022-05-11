@@ -69,10 +69,9 @@ Screenshot
 
 ![This is a File2 Overwrite](https://github.com/SHAHKRISHS/Encryption-and-Decryption/blob/main/Images/Encrypted%20Overwrite.png)
 
-Author
+Information
 ---------------------
 
-## Krish Shah
+Author: hellman
 
-License
----------------------
+License: [MIT License](https://opensource.org/licenses/MIT)
